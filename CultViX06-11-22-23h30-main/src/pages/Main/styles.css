@@ -9,6 +9,37 @@
     background-color: #1272dfce;
     color: #ffffff;
 }
+.Logo{
+
+    font-size: 2.5rem;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+    box-shadow: 8px 8px 10px 0 #ff1492, -5px -5px 5px 0 #00f, 5px 5px 15px 0 #ff0;
+}
+
+.portifo{
+display: flex;
+
+}
+p h2{
+
+border: rgba(96, 238, 2, 0.479) 5px double;
+background-clip: content-box;
+}
+.link2 a{
+display: flex;
+color:rgba(0, 0, 0, 0.603);
+}
+b{
+    border-bottom-left-radius: 0%;
+    border: rgba(96, 238, 2, 0.479) 5px double;
+    background-clip: content-box;
+}
+
+h2 a{
+padding-left: 1cm;
+font-size: large;
+}
 .container-section-main {
     padding: 150px;
   
@@ -27,6 +58,14 @@
 
 .section-three {
     height: 400px;
-    
-   
 }
+visite {
+font-size: 10rem;
+    }  
+    p h2 a{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 2.5rem;
+padding-left: 2%;
+color: #a71a65ce;
+    } 
+

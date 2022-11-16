@@ -14,18 +14,26 @@ function Main() {
       </nav>
       <header>
         <div className='container-header-main'>
-         
-          <br></br><br></br><br></br><br></br><br></br><br></br> <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>  <br></br><br></br><br></br><br></br><br></br><br></br><br></br>  <br></br><br></br><br></br><br></br><br></br><br></br><br></br>
-         <h1>Cult-vix </h1>
+        <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br> <br></br><br></br><br></br> <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+         <div class='Logo'>
          <br></br>
-          <h2>Cultura como você nunca viu</h2>
-          <br></br>
-          <h2><Link to={'/home'}>CONHEÇA</Link></h2>
-             <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
-            <center><Img2/></center>
-            <br></br> <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>   <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br> <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
-        </div>
-      </header><Imgl/>
+         <h1>Cult-vix </h1>
+         </div>
+         <br></br><br></br>
+                   <h2>Cultura como você nunca viu</h2>
+        
+          <div class='portifo'>
+        <br></br><br></br><br></br>
+          <p><h2><Link to={'/home'}>CONHEÇA</Link></h2></p>  
+<div class='link2'>
+            <h2><a href='https://www.canva.com/design/DAFRpEQkBZc/VT1Ost6a6BUTpTgAwBlfkg/view?utm_content=DAFRpEQkBZc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'><b>Portfólio Cult-Vix</b></a></h2>
+</div>
+<br></br><br></br><br></br><br></br><br></br><br></br>
+            </div>
+            <br></br>
+           <center><Img2/></center></div>
+           
+           </header><Imgl/>
       <iframe src="https://giphy.com/embed/RbeqKmyz5mqzkMz0Xr" 
       width="480" height="270" frameBorder="0" class="giphy-embed" 
       allowFullScreen></iframe><p>
@@ -56,8 +64,9 @@ width="80" height="50" frameBorder="0" aling="left"></img>
       <section>
         <div className='container-section-main section-two'>
           <h2><Imagem1/></h2>
-          <p><h2><a target="_blank" href="https://descubraoespiritosanto.es.gov.br/">VISITE O ES CULT VIX,  Secretaria de Turismo
-Governo do Estado do Espírito Santo</a></h2></p>
+          <div classname="visite">
+          <p><h2><a target="_blank" href="https://descubraoespiritosanto.es.gov.br/">VISITE O ES Secretaria de Turismo Gov. Estado do ES</a></h2></p>
+</div>
         </div>
       </section>
       <section>

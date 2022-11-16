@@ -79,7 +79,9 @@ function NavBarHome() {
 
                 <div className='ini'>
                     <br />
-                    <h1><Link to={'/'}>Inicio</Link></h1>{''}
+                    <div class='inic2'>
+                    <h1><Link to={'/'}>Inicio</Link></h1>
+                    </div>
                     <br />
                     <a href='/'>   </a>{''}
                     <br />
