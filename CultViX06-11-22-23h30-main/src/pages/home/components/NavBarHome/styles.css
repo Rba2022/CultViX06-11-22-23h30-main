@@ -1,0 +1,174 @@
+.navbar-main-home {
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+    position: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+
+    top: 05;
+    right: 05;
+    left: 05;
+
+    height: 90px;
+
+    padding: 0 260px;
+    opacity: 75%;
+    background-color: #096d43;
+}
+
+.navbar-main-home h1 {
+    font-size: 2rem;
+    color: #ffffff;
+    display: inline-flex;
+}
+.titulo{
+position: absolute;
+left: 50%;
+top: 1%;
+
+}
+
+.ini{
+  position: absolute;
+  left: 3%;
+  top: 2%;
+}
+
+#video {
+  position: absolute;
+  display: flexbox;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  left: 1%;
+  top: 11%;
+  min-width: 0;
+  word-wrap: break-word;  
+  background-color: rgba(3, 2, 10, 0.301);
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+    height: 450px;
+    width: 900px;
+}
+
+
+  .card-body {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+  }
+
+  .card {
+  position: relative;
+  display: flexbox;
+  flex-direction: column;
+  width: 40%;
+  align-items: center;
+  text-align: center;
+  left: 78%;
+  top: 10%;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color:#045838;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
+
+
+
+  .btn1{
+    position: absolute;
+    width:10%;
+    background-color: transparent;
+    display: flex;
+    border: 0;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    height: 39%;
+    bottom: 20%;
+    left: 66%;
+  }
+  .btn1:hover{
+    transform: scale(1.2);
+  }
+
+  #maps{
+    position: absolute;
+    width: 30%;
+    height: 40%;
+    bottom: 3%;
+    left: 69%;
+  }
+  #inpt1{
+    width: 50%;
+    background-color:rgba(241, 241, 241, 0.24)
+  }
+  .main{
+    position: absolute;
+    top: 15.8%;
+    right: 3%;
+  }
+  
+.txt1{
+
+  position: absolute;
+  text-align: center;
+  top: 78%;
+  background-color: #096d43;
+  opacity: 75%;
+  width: 67%;
+  height: 20%;
+  display:block;
+  left: 1%;
+}
+.m2{
+  position: absolute;
+  top: 80%;
+  right: 75%;
+}
+.m3{
+  position: absolute;
+  top: 80.2%;
+  right: 35%;
+}
+.m4{
+  position: absolute;
+  top: 86%;
+  right: 79.3%;
+}
+.m5{
+  position: absolute;
+  top: 86%;
+  right: 34.3%;
+}
+
+.m6{
+  position: absolute;
+  top: 91%;
+  right: 71%;
+}
+
+.cardss {
+  position: absolute;
+  display: flexbox;
+  flex-direction: column;
+  font-size: smaller;
+  text-align: center;
+  overflow-x: scroll;
+  display: flex;
+  width: 30%;
+  height: 30%;
+  align-items: center;
+  text-align: center;
+  left: 70%;
+  scroll-margin: inherit;
+  top: 10%;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color:aliceblue;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
